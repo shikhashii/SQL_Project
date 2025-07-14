@@ -1,5 +1,4 @@
-**Remote Work Health Impact Analysis (2025)
-**
+# Remote Work Health Impact Analysis (2025)
 
 This project analyzes the impact of remote work on employee well-being using a fictional survey dataset for the year 2025. The objective is to uncover insights about burnout, mental health, work-life balance, and physical health issues across different demographics, job roles, industries, and work arrangements (Remote, Hybrid, Onsite).
 
