@@ -18,14 +18,10 @@ Work hours and work-life balance across age groups.
 
 Common physical health issues by industry.
 
-Salary ranges vs. average burnout levels.
-
-Social isolation analysis by job roles.
-
 **SQL Skills Demonstrated:
 **
 
-Aggregations, Grouping, Filtering.
+Aggregations, Grouping, Filtering, Sub-query.
 
 Window functions (RANK).
 
@@ -49,6 +45,10 @@ Cleaned Dataset
 
 ✅ Tools Used:
 
-MySQL
-
 Excel (for data preparation)
+
+MySQL (for exploratory data analysis)
+
+Tableau (for visualization)
+
+
