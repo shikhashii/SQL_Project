@@ -6,6 +6,13 @@ This project analyzes the impact of remote work on employee well-being using a f
 
 Data Cleaning & Exploration: SQL queries to check for null values, unique records, and overall data structure.
 
+**Dataset Used**
+
+<a href="https://github.com/shikhashii/SQL_Project/blob/main/Raw_data.csv">Raw Data and <a href="https://github.com/shikhashii/SQL_Project/blob/main/Cleaned_data.csv">Cleaned Data
+
+<a href="https://github.com/shikhashii/SQL_Project/blob/main/SQL_query.pdf"> SQL Query PDF  and <a href="https://github.com/shikhashii/SQL_Project/blob/main/SQL_Presentation.pdf"> Presentation
+
+
 **Key Metrics & Analysis:**
 
 Burnout scores by work arrangement and job roles.
@@ -40,8 +47,6 @@ Cleaned Dataset
 
 **✅ Tools Used:**
 
-Excel (for data preparation) - <a href="https://github.com/shikhashii/SQL_Project/blob/main/Raw_data.csv">Raw Data and <a href="https://github.com/shikhashii/SQL_Project/blob/main/Cleaned_data.csv">Cleaned Data
+Excel (for data preparation)
 
-MySQL (for exploratory data analysis) - <a href="https://github.com/shikhashii/SQL_Project/blob/main/SQL_query.pdf"> SQL Query PDF  and <a href="https://github.com/shikhashii/SQL_Project/blob/main/SQL_Presentation.pdf"> Presentation
-
-
+MySQL (for exploratory data analysis)
