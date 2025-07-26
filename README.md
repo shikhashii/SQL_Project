@@ -10,7 +10,7 @@ Data Cleaning & Exploration: SQL queries to check for null values, unique record
 
 <a href="https://github.com/shikhashii/SQL_Project/blob/main/Raw_data.csv">Raw Survey Data and <a href="https://github.com/shikhashii/SQL_Project/blob/main/Cleaned_data.csv">Cleaned Survey Data
 
-<a href="https://github.com/shikhashii/SQL_Project/blob/main/SQL_query.pdf"> SQL Query PDF  and <a href="https://github.com/shikhashii/SQL_Project/blob/main/SQL_Presentation.pdf"> Presentation
+<a href="https://github.com/shikhashii/SQL_Project/blob/main/SQL_query.pdf"> SQL Query PDF  and <a href="https://github.com/shikhashii/SQL_Project/blob/main/Presentation.pdf"> Presentation
 
 
 **Key Metrics & Analysis:**
